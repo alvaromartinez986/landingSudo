@@ -1,5 +1,5 @@
 <p align="center">
-    <img width=100% src="assets/img/sudo_logo_small.png">
+      <img width=100% src="src/assets/img/sudo_logo_small.png">
 </p>
 
 # ⭐️ Sudo Landing Page ⭐️
