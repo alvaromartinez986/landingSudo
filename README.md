@@ -1,5 +1,7 @@
 <p align="center">
-    <img width=100% src="assets/img/sudo_logo_small.png">
+    <a href="https://www.meetup.com/Angular-Medellin/">
+      <img width=100% src="assets/img/sudo_logo_small.png">
+    </a>
 </p>
 
 # ⭐️ Sudo Landing Page ⭐️
